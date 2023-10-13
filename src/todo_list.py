@@ -31,6 +31,7 @@ def delete_work():
 
 # 할 일을 저장할 딕셔너리
 todo = {}
+list1 = []
 
 # Tkinter 윈도우 생성
 root = Tk()
